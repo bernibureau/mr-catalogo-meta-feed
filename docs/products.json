@@ -308,6 +308,28 @@
     "categoria": "Bebidas"
   },
   {
+    "sku": "DG99-3225",
+    "productId": "34605315",
+    "marca": "Lagarde",
+    "nombre": "Set x6 botellas Malbec",
+    "titulo": "Lagarde Set x6 botellas Malbec",
+    "puntos": 16900,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34605315&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Lagarde/DG99-3225/DG99-3225",
+    "categoria": "Bebidas"
+  },
+  {
+    "sku": "DG99-3226",
+    "productId": "34605571",
+    "marca": "Johnnie Walker",
+    "nombre": "Whisky Double black 750ml",
+    "titulo": "Johnnie Walker Whisky Double black 750ml",
+    "puntos": 17700,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34605571&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Johnnie-Walker/DG99-3226/DG99-3226",
+    "categoria": "Bebidas"
+  },
+  {
     "sku": "GOBE-4232",
     "productId": "34544899",
     "marca": "Trapiche",
@@ -349,6 +371,28 @@
     "puntos": 18600,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34294787&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Volf/DG99-3155/DG99-3155",
+    "categoria": "Bebidas"
+  },
+  {
+    "sku": "DG99-3228",
+    "productId": "34606083",
+    "marca": "Johnnie Walker",
+    "nombre": "Whisky Green 750ml",
+    "titulo": "Johnnie Walker Whisky Green 750ml",
+    "puntos": 19400,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34606083&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Johnnie-Walker/DG99-3228/DG99-3228",
+    "categoria": "Bebidas"
+  },
+  {
+    "sku": "DG99-3230",
+    "productId": "34606595",
+    "marca": "Johnnie Walker",
+    "nombre": "Whisky Blue Label 750ml",
+    "titulo": "Johnnie Walker Whisky Blue Label 750ml",
+    "puntos": 20100,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34606595&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Johnnie-Walker/DG99-3230/DG99-3230",
     "categoria": "Bebidas"
   },
   {
@@ -415,17 +459,6 @@
     "puntos": 26800,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34276099&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Contigo/DG99-3124/DG99-3124",
-    "categoria": "Bebidas"
-  },
-  {
-    "sku": "DG99-3120",
-    "productId": "34275075",
-    "marca": "Stanley",
-    "nombre": "Botella térmica 710ml",
-    "titulo": "Stanley Botella térmica 710ml",
-    "puntos": 27800,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34275075&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Stanley/DG99-3120/DG99-3120",
     "categoria": "Bebidas"
   },
   {
@@ -913,6 +946,17 @@
     "categoria": "Coffee Break"
   },
   {
+    "sku": "DG99-3222",
+    "productId": "34604547",
+    "marca": "Black & Decker",
+    "nombre": "Cafetera de filtro",
+    "titulo": "Black & Decker Cafetera de filtro",
+    "puntos": 16200,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34604547&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Black-Decker/DG99-3222/DG99-3222",
+    "categoria": "Coffee Break"
+  },
+  {
     "sku": "GOBE-4231",
     "productId": "34544643",
     "marca": "Sakura",
@@ -990,6 +1034,17 @@
     "categoria": "Coffee Break"
   },
   {
+    "sku": "DG99-3234",
+    "productId": "34607619",
+    "marca": "Stanley",
+    "nombre": "Mate Stanley Negro",
+    "titulo": "Stanley Mate Stanley Negro",
+    "puntos": 23600,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34607619&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Stanley/DG99-3234/DG99-3234",
+    "categoria": "Coffee Break"
+  },
+  {
     "sku": "DG99-3202",
     "productId": "34435587",
     "marca": "Peabody",
@@ -998,6 +1053,83 @@
     "puntos": 23900,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34435587&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Peabody/DG99-3202/DG99-3202",
+    "categoria": "Coffee Break"
+  },
+  {
+    "sku": "DG99-3236",
+    "productId": "34608131",
+    "marca": "Stanley",
+    "nombre": "Travel Mug Café To Go 236ml",
+    "titulo": "Stanley Travel Mug Café To Go 236ml",
+    "puntos": 24300,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34608131&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Stanley/DG99-3236/DG99-3236",
+    "categoria": "Coffee Break"
+  },
+  {
+    "sku": "DG99-3237",
+    "productId": "34608387",
+    "marca": "Stanley",
+    "nombre": "Termo de Alimentos 354 ml",
+    "titulo": "Stanley Termo de Alimentos 354 ml",
+    "puntos": 26400,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34608387&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Stanley/DG99-3237/DG99-3237",
+    "categoria": "Coffee Break"
+  },
+  {
+    "sku": "DG99-3238",
+    "productId": "34591235",
+    "marca": "Stanley",
+    "nombre": "Botella Go Flip 700ml",
+    "titulo": "Stanley Botella Go Flip 700ml",
+    "puntos": 26600,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34591235&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Stanley/DG99-3238/DG99-3238",
+    "categoria": "Coffee Break"
+  },
+  {
+    "sku": "DG99-3240",
+    "productId": "34591747",
+    "marca": "Stanley",
+    "nombre": "Yerbera 500gr Negro",
+    "titulo": "Stanley Yerbera 500gr Negro",
+    "puntos": 28400,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34591747&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Stanley/DG99-3240/DG99-3240",
+    "categoria": "Coffee Break"
+  },
+  {
+    "sku": "DG99-3241",
+    "productId": "34592003",
+    "marca": "Stanley",
+    "nombre": "Mug Aerolight 591ml",
+    "titulo": "Stanley Mug Aerolight 591ml",
+    "puntos": 29900,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34592003&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Stanley/DG99-3241/DG99-3241",
+    "categoria": "Coffee Break"
+  },
+  {
+    "sku": "DG99-3243",
+    "productId": "34592515",
+    "marca": "Stanley",
+    "nombre": "Botella Térmica 710ml",
+    "titulo": "Stanley Botella Térmica 710ml",
+    "puntos": 31000,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34592515&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Stanley/DG99-3243/DG99-3243",
+    "categoria": "Coffee Break"
+  },
+  {
+    "sku": "DG99-3244",
+    "productId": "34608643",
+    "marca": "Stanley",
+    "nombre": "Mug Everday 710ml",
+    "titulo": "Stanley Mug Everday 710ml",
+    "puntos": 31000,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34608643&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Stanley/DG99-3244/DG99-3244",
     "categoria": "Coffee Break"
   },
   {
@@ -1133,6 +1265,28 @@
     "categoria": "Cuidado Personal y Bienestar"
   },
   {
+    "sku": "DG99-3220",
+    "productId": "34573315",
+    "marca": "Remington",
+    "nombre": "Secador de pelo",
+    "titulo": "Remington Secador de pelo",
+    "puntos": 13800,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34573315&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Remington/DG99-3220/DG99-3220",
+    "categoria": "Cuidado Personal y Bienestar"
+  },
+  {
+    "sku": "DG99-3221",
+    "productId": "34573571",
+    "marca": "Philips",
+    "nombre": "One Blade",
+    "titulo": "Philips One Blade",
+    "puntos": 15300,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34573571&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Philips/DG99-3221/DG99-3221",
+    "categoria": "Cuidado Personal y Bienestar"
+  },
+  {
     "sku": "DG99-3204",
     "productId": "34436099",
     "marca": "Remington",
@@ -1232,6 +1386,17 @@
     "categoria": "Hogar"
   },
   {
+    "sku": "DG99-3232",
+    "productId": "34607107",
+    "marca": "Black & Decker",
+    "nombre": "Aspiradora de mano",
+    "titulo": "Black & Decker Aspiradora de mano",
+    "puntos": 21000,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34607107&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Black-Decker/DG99-3232/DG99-3232",
+    "categoria": "Hogar"
+  },
+  {
     "sku": "DG99-3212",
     "productId": "34441731",
     "marca": "Black & Decker",
@@ -1262,17 +1427,6 @@
     "puntos": 139400,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34292995&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/TP-LINK/DG99-3148/DG99-3148",
-    "categoria": "Hogar"
-  },
-  {
-    "sku": "DG99-2988",
-    "productId": "34106371",
-    "marca": "",
-    "nombre": "",
-    "titulo": "",
-    "puntos": 92200,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34106371&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Adidas/DG99-2988/DG99-2988",
     "categoria": "Hogar"
   },
   {
@@ -1309,6 +1463,17 @@
     "categoria": "Hogar"
   },
   {
+    "sku": "DG99-3197",
+    "productId": "34430211",
+    "marca": "",
+    "nombre": "",
+    "titulo": "",
+    "puntos": 27700,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34430211&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Polarbox/DG99-3197/DG99-3197",
+    "categoria": "Hogar"
+  },
+  {
     "sku": "DG99-3200",
     "productId": "34430979",
     "marca": "Peabody",
@@ -1317,17 +1482,6 @@
     "puntos": 25600,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34430979&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Peabody/DG99-3200/DG99-3200",
-    "categoria": "Outdoor"
-  },
-  {
-    "sku": "DG99-3197",
-    "productId": "34430211",
-    "marca": "Polarbox",
-    "nombre": "Cooler Bag 6L",
-    "titulo": "Polarbox Cooler Bag 6L",
-    "puntos": 27700,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34430211&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Polarbox/DG99-3197/DG99-3197",
     "categoria": "Outdoor"
   },
   {
@@ -1350,6 +1504,28 @@
     "puntos": 16300,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34543619&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Moulinex/GOBE-4227/GOBE-4227",
+    "categoria": "Pequeños Electro"
+  },
+  {
+    "sku": "DG99-3224",
+    "productId": "34605059",
+    "marca": "Smart Life",
+    "nombre": "Mixer",
+    "titulo": "Smart Life Mixer",
+    "puntos": 16700,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34605059&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Smart-Life/DG99-3224/DG99-3224",
+    "categoria": "Pequeños Electro"
+  },
+  {
+    "sku": "DG99-3227",
+    "productId": "34605827",
+    "marca": "Black & Decker",
+    "nombre": "Plancha a vapor",
+    "titulo": "Black & Decker Plancha a vapor",
+    "puntos": 19400,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34605827&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Black-Decker/DG99-3227/DG99-3227",
     "categoria": "Pequeños Electro"
   },
   {
@@ -1386,6 +1562,28 @@
     "categoria": "Pequeños Electro"
   },
   {
+    "sku": "DG99-3231",
+    "productId": "34606851",
+    "marca": "Oster",
+    "nombre": "Mini chopper",
+    "titulo": "Oster Mini chopper",
+    "puntos": 20800,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34606851&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Oster/DG99-3231/DG99-3231",
+    "categoria": "Pequeños Electro"
+  },
+  {
+    "sku": "DG99-3233",
+    "productId": "34607363",
+    "marca": "Oster",
+    "nombre": "Pava eléctrica",
+    "titulo": "Oster Pava eléctrica",
+    "puntos": 21800,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34607363&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Oster/DG99-3233/DG99-3233",
+    "categoria": "Pequeños Electro"
+  },
+  {
     "sku": "GOBE-4247",
     "productId": "34548739",
     "marca": "Sakura",
@@ -1419,6 +1617,17 @@
     "categoria": "Pequeños Electro"
   },
   {
+    "sku": "DG99-3235",
+    "productId": "34607875",
+    "marca": "SmartLife",
+    "nombre": "Tostadora",
+    "titulo": "SmartLife Tostadora",
+    "puntos": 24200,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34607875&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/SmartLife/DG99-3235/DG99-3235",
+    "categoria": "Pequeños Electro"
+  },
+  {
     "sku": "GOBE-4249",
     "productId": "34549251",
     "marca": "Sakura",
@@ -1441,6 +1650,17 @@
     "categoria": "Pequeños Electro"
   },
   {
+    "sku": "DG99-3239",
+    "productId": "34591491",
+    "marca": "Black & Decker",
+    "nombre": "Mixer 3 en 1",
+    "titulo": "Black & Decker Mixer 3 en 1",
+    "puntos": 27200,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34591491&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Black-Decker/DG99-3239/DG99-3239",
+    "categoria": "Pequeños Electro"
+  },
+  {
     "sku": "DG99-3196",
     "productId": "34429955",
     "marca": "Black & Decker",
@@ -1449,6 +1669,17 @@
     "puntos": 28100,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34429955&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Black-Decker/DG99-3196/DG99-3196",
+    "categoria": "Pequeños Electro"
+  },
+  {
+    "sku": "DG99-3242",
+    "productId": "34592259",
+    "marca": "Black & Decker",
+    "nombre": "Licuadora",
+    "titulo": "Black & Decker Licuadora",
+    "puntos": 30600,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34592259&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Black-Decker/DG99-3242/DG99-3242",
     "categoria": "Pequeños Electro"
   },
   {
@@ -2296,6 +2527,28 @@
     "puntos": 16100,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34543363&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Sakura/GOBE-4226/GOBE-4226",
+    "categoria": "Vajilla"
+  },
+  {
+    "sku": "DG99-3223",
+    "productId": "34604803",
+    "marca": "Volf",
+    "nombre": "Set x 6 copas 520 cc",
+    "titulo": "Volf Set x 6 copas 520 cc",
+    "puntos": 16500,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34604803&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Volf/DG99-3223/DG99-3223",
+    "categoria": "Vajilla"
+  },
+  {
+    "sku": "DG99-3229",
+    "productId": "34606339",
+    "marca": "Volf",
+    "nombre": "Set x 6 vasos ultra fino",
+    "titulo": "Volf Set x 6 vasos ultra fino",
+    "puntos": 19500,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34606339&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Volf/DG99-3229/DG99-3229",
     "categoria": "Vajilla"
   },
   {
