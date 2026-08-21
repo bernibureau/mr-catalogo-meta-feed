@@ -1034,6 +1034,28 @@
     "categoria": "Coffee Break"
   },
   {
+    "sku": "DG99-3270",
+    "productId": "34588163",
+    "marca": "Nespresso",
+    "nombre": "Inissia Black Single",
+    "titulo": "Nespresso Inissia Black Single",
+    "puntos": 63200,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34588163&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Nespresso/DG99-3270/DG99-3270",
+    "categoria": "Coffee Break"
+  },
+  {
+    "sku": "DG99-3275",
+    "productId": "34645763",
+    "marca": "Nespresso",
+    "nombre": "Essenza Mini Black C Pack",
+    "titulo": "Nespresso Essenza Mini Black C Pack",
+    "puntos": 84400,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34645763&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Nespresso/DG99-3275/DG99-3275",
+    "categoria": "Coffee Break"
+  },
+  {
     "sku": "GOBE-4289",
     "productId": "34552835",
     "marca": "Nespresso",
@@ -1045,6 +1067,50 @@
     "categoria": "Coffee Break"
   },
   {
+    "sku": "DG99-3277",
+    "productId": "34646275",
+    "marca": "Nespresso",
+    "nombre": "Inissia Black Bundle",
+    "titulo": "Nespresso Inissia Black Bundle",
+    "puntos": 100700,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34646275&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Nespresso/DG99-3277/DG99-3277",
+    "categoria": "Coffee Break"
+  },
+  {
+    "sku": "DG99-3281",
+    "productId": "34647299",
+    "marca": "Nespresso",
+    "nombre": "Cafetera Citiz Silver",
+    "titulo": "Nespresso Cafetera Citiz Silver",
+    "puntos": 104100,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34647299&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Nespresso/DG99-3281/DG99-3281",
+    "categoria": "Coffee Break"
+  },
+  {
+    "sku": "DG99-3282",
+    "productId": "34647555",
+    "marca": "Nespresso",
+    "nombre": "Citiz Black",
+    "titulo": "Nespresso Citiz Black",
+    "puntos": 104100,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34647555&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Nespresso/DG99-3282/DG99-3282",
+    "categoria": "Coffee Break"
+  },
+  {
+    "sku": "DG99-3284",
+    "productId": "34648067",
+    "marca": "Nespresso",
+    "nombre": "Citiz Platinium Titanium",
+    "titulo": "Nespresso Citiz Platinium Titanium",
+    "puntos": 110700,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34648067&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Nespresso/DG99-3284/DG99-3284",
+    "categoria": "Coffee Break"
+  },
+  {
     "sku": "GOBE-4267",
     "productId": "34577923",
     "marca": "Nespresso",
@@ -1053,6 +1119,39 @@
     "puntos": 125600,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34577923&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Nespresso/GOBE-4267/GOBE-4267",
+    "categoria": "Coffee Break"
+  },
+  {
+    "sku": "DG99-3286",
+    "productId": "34648579",
+    "marca": "Nespresso",
+    "nombre": "Citiz and Milk Black",
+    "titulo": "Nespresso Citiz and Milk Black",
+    "puntos": 130000,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34648579&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Nespresso/DG99-3286/DG99-3286",
+    "categoria": "Coffee Break"
+  },
+  {
+    "sku": "DG99-3287",
+    "productId": "34648835",
+    "marca": "Nespresso",
+    "nombre": "Lattissima One Black",
+    "titulo": "Nespresso Lattissima One Black",
+    "puntos": 142600,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34648835&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Nespresso/DG99-3287/DG99-3287",
+    "categoria": "Coffee Break"
+  },
+  {
+    "sku": "DG99-3288",
+    "productId": "34649091",
+    "marca": "Nespresso",
+    "nombre": "Lattissima One White",
+    "titulo": "Nespresso Lattissima One White",
+    "puntos": 142600,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34649091&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Nespresso/DG99-3288/DG99-3288",
     "categoria": "Coffee Break"
   },
   {
@@ -1075,6 +1174,17 @@
     "puntos": 188100,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34594307&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Nespresso/GOBE-4271/GOBE-4271",
+    "categoria": "Coffee Break"
+  },
+  {
+    "sku": "DG99-3293",
+    "productId": "34650371",
+    "marca": "Nespresso",
+    "nombre": "Gran Lattissima Black",
+    "titulo": "Nespresso Gran Lattissima Black",
+    "puntos": 197400,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34650371&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Nespresso/DG99-3293/DG99-3293",
     "categoria": "Coffee Break"
   },
   {
@@ -1218,6 +1328,17 @@
     "puntos": 53600,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34670595&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Black-Decker/DG99-3263/DG99-3263",
+    "categoria": "Hogar"
+  },
+  {
+    "sku": "DG99-3278",
+    "productId": "34646531",
+    "marca": "Peabody",
+    "nombre": "Aspiradora Robot",
+    "titulo": "Peabody Aspiradora Robot",
+    "puntos": 101000,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34646531&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Peabody/DG99-3278/DG99-3278",
     "categoria": "Hogar"
   },
   {
@@ -1573,6 +1694,17 @@
     "categoria": "Pequeños Electro"
   },
   {
+    "sku": "DG99-3290",
+    "productId": "34649603",
+    "marca": "Kitchenaid",
+    "nombre": "Batidora",
+    "titulo": "Kitchenaid Batidora",
+    "puntos": 152200,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34649603&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Kitchenaid/DG99-3290/DG99-3290",
+    "categoria": "Pequeños Electro"
+  },
+  {
     "sku": "DG99-3194",
     "productId": "34429443",
     "marca": "Philips",
@@ -1639,6 +1771,17 @@
     "categoria": "TV y Audio"
   },
   {
+    "sku": "DG99-3271",
+    "productId": "34588419",
+    "marca": "Samsung",
+    "nombre": "Smart TV 32\"",
+    "titulo": "Samsung Smart TV 32\"",
+    "puntos": 66800,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34588419&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Samsung/DG99-3271/DG99-3271",
+    "categoria": "TV y Audio"
+  },
+  {
     "sku": "DG99-3139",
     "productId": "34280451",
     "marca": "Harman Kardon",
@@ -1658,6 +1801,28 @@
     "puntos": 90500,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34423555&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Sony/DG99-3181/DG99-3181",
+    "categoria": "TV y Audio"
+  },
+  {
+    "sku": "DG99-3280",
+    "productId": "34647043",
+    "marca": "JBL",
+    "nombre": "Parlante",
+    "titulo": "JBL Parlante",
+    "puntos": 101500,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34647043&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/JBL/DG99-3280/DG99-3280",
+    "categoria": "TV y Audio"
+  },
+  {
+    "sku": "DG99-3283",
+    "productId": "34647811",
+    "marca": "Philips",
+    "nombre": "Smart TV 43\"",
+    "titulo": "Philips Smart TV 43\"",
+    "puntos": 106500,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34647811&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Philips/DG99-3283/DG99-3283",
     "categoria": "TV y Audio"
   },
   {
@@ -1705,6 +1870,17 @@
     "categoria": "TV y Audio"
   },
   {
+    "sku": "DG99-3289",
+    "productId": "34649347",
+    "marca": "Samsung",
+    "nombre": "Smart TV 50\" Crystal UHD 4K",
+    "titulo": "Samsung Smart TV 50\" Crystal UHD 4K",
+    "puntos": 150800,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34649347&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Samsung/DG99-3289/DG99-3289",
+    "categoria": "TV y Audio"
+  },
+  {
     "sku": "DG99-3177",
     "productId": "34427139",
     "marca": "Philips",
@@ -1713,6 +1889,17 @@
     "puntos": 160200,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34427139&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Philips/DG99-3177/DG99-3177",
+    "categoria": "TV y Audio"
+  },
+  {
+    "sku": "DG99-3291",
+    "productId": "34649859",
+    "marca": "Samsung",
+    "nombre": "Smart TV 55\"",
+    "titulo": "Samsung Smart TV 55\"",
+    "puntos": 166800,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34649859&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Samsung/DG99-3291/DG99-3291",
     "categoria": "TV y Audio"
   },
   {
@@ -1870,6 +2057,17 @@
     "categoria": "Tecno"
   },
   {
+    "sku": "DG99-3276",
+    "productId": "34646019",
+    "marca": "Amazon",
+    "nombre": "Echo Show 5 Blanco",
+    "titulo": "Amazon Echo Show 5 Blanco",
+    "puntos": 84500,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34646019&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Amazon/DG99-3276/DG99-3276",
+    "categoria": "Tecno"
+  },
+  {
     "sku": "DG99-3157",
     "productId": "34295299",
     "marca": "Amazon",
@@ -1878,6 +2076,17 @@
     "puntos": 86000,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34295299&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Amazon/DG99-3157/DG99-3157",
+    "categoria": "Tecno"
+  },
+  {
+    "sku": "DG99-3285",
+    "productId": "34648323",
+    "marca": "Amazon",
+    "nombre": "Kindle 16GB Gen 11",
+    "titulo": "Amazon Kindle 16GB Gen 11",
+    "puntos": 120000,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34648323&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Amazon/DG99-3285/DG99-3285",
     "categoria": "Tecno"
   },
   {
@@ -1903,6 +2112,17 @@
     "categoria": "Tecno"
   },
   {
+    "sku": "DG99-3292",
+    "productId": "34650115",
+    "marca": "Apple",
+    "nombre": "Apple TV 4K",
+    "titulo": "Apple Apple TV 4K",
+    "puntos": 177900,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34650115&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Apple/DG99-3292/DG99-3292",
+    "categoria": "Tecno"
+  },
+  {
     "sku": "DG99-3176",
     "productId": "34426883",
     "marca": "Samsung",
@@ -1922,6 +2142,17 @@
     "puntos": 203200,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34295811&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Jabra/DG99-3159/DG99-3159",
+    "categoria": "Tecno"
+  },
+  {
+    "sku": "DG99-3294",
+    "productId": "34650627",
+    "marca": "Sony",
+    "nombre": "Consola PlayStation 5",
+    "titulo": "Sony Consola PlayStation 5",
+    "puntos": 229000,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34650627&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Sony/DG99-3294/DG99-3294",
     "categoria": "Tecno"
   },
   {
