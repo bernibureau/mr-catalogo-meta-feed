@@ -1,82 +1,5 @@
 [
   {
-    "sku": "GOBE-4212",
-    "productId": "34465283",
-    "marca": "Le Toton",
-    "nombre": "Tetera Vidrio + Infusor 950 Ml",
-    "titulo": "Le Toton Tetera Vidrio + Infusor 950 Ml",
-    "puntos": 8900,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34465283&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Le-Toton/GOBE-4212/GOBE-4212",
-    "categoria": "Bazar"
-  },
-  {
-    "sku": "GOBE-4213",
-    "productId": "34465539",
-    "marca": "Sakura",
-    "nombre": "Vaso Térmico Black 600 Ml",
-    "titulo": "Sakura Vaso Térmico Black 600 Ml",
-    "puntos": 9700,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34465539&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Sakura/GOBE-4213/GOBE-4213",
-    "categoria": "Bazar"
-  },
-  {
-    "sku": "GOBE-4214",
-    "productId": "34465795",
-    "marca": "Sakura",
-    "nombre": "Vaso Térmico Pink 600 Ml",
-    "titulo": "Sakura Vaso Térmico Pink 600 Ml",
-    "puntos": 9700,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34465795&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Sakura/GOBE-4214/GOBE-4214",
-    "categoria": "Bazar"
-  },
-  {
-    "sku": "GOBE-4215",
-    "productId": "34466563",
-    "marca": "Sakura",
-    "nombre": "Vaso Térmico White 600 Ml",
-    "titulo": "Sakura Vaso Térmico White 600 Ml",
-    "puntos": 9700,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34466563&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Sakura/GOBE-4215/GOBE-4215",
-    "categoria": "Bazar"
-  },
-  {
-    "sku": "GOBE-4221",
-    "productId": "34468099",
-    "marca": "Sakura",
-    "nombre": "Vaso Térmico Black 900 Ml",
-    "titulo": "Sakura Vaso Térmico Black 900 Ml",
-    "puntos": 11500,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34468099&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Sakura/GOBE-4221/GOBE-4221",
-    "categoria": "Bazar"
-  },
-  {
-    "sku": "GOBE-4222",
-    "productId": "34468355",
-    "marca": "Sakura",
-    "nombre": "Vaso Térmico Pink 900 Ml",
-    "titulo": "Sakura Vaso Térmico Pink 900 Ml",
-    "puntos": 11500,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34468355&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Sakura/GOBE-4222/GOBE-4222",
-    "categoria": "Bazar"
-  },
-  {
-    "sku": "GOBE-4223",
-    "productId": "34468611",
-    "marca": "Sakura",
-    "nombre": "Vaso Térmico White 900 Ml",
-    "titulo": "Sakura Vaso Térmico White 900 Ml",
-    "puntos": 11500,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34468611&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Sakura/GOBE-4223/GOBE-4223",
-    "categoria": "Bazar"
-  },
-  {
     "sku": "DG99-3119",
     "productId": "34274819",
     "marca": "Delsey",
@@ -107,6 +30,17 @@
     "puntos": 66800,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34276355&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Delsey/DG99-3125/DG99-3125",
+    "categoria": "Bazar"
+  },
+  {
+    "sku": "DG99-3156",
+    "productId": "34295043",
+    "marca": "Apple",
+    "nombre": "AirTag x4 unidades",
+    "titulo": "Apple AirTag x4 unidades",
+    "puntos": 75600,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34295043&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Apple/DG99-3156/DG99-3156",
     "categoria": "Bazar"
   },
   {
@@ -154,105 +88,6 @@
     "categoria": "Bazar"
   },
   {
-    "sku": "DG99-3156",
-    "productId": "34295043",
-    "marca": "Apple",
-    "nombre": "AirTag x4 unidades",
-    "titulo": "Apple AirTag x4 unidades",
-    "puntos": 75600,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34295043&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Apple/DG99-3156/DG99-3156",
-    "categoria": "Bazar"
-  },
-  {
-    "sku": "GOBE-4202",
-    "productId": "34462723",
-    "marca": "Salentein",
-    "nombre": "Vino Salentein Brut Nature",
-    "titulo": "Salentein Vino Salentein Brut Nature",
-    "puntos": 6400,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34462723&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Salentein/GOBE-4202/GOBE-4202",
-    "categoria": "Bebidas"
-  },
-  {
-    "sku": "GOBE-4204",
-    "productId": "34463235",
-    "marca": "Salentein",
-    "nombre": "Salentein Pinot Noir 2023",
-    "titulo": "Salentein Salentein Pinot Noir 2023",
-    "puntos": 6700,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34463235&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Salentein/GOBE-4204/GOBE-4204",
-    "categoria": "Bebidas"
-  },
-  {
-    "sku": "GOBE-4206",
-    "productId": "34463747",
-    "marca": "Salentein",
-    "nombre": "Vino Alyda Van Salentein",
-    "titulo": "Salentein Vino Alyda Van Salentein",
-    "puntos": 7000,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34463747&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Salentein/GOBE-4206/GOBE-4206",
-    "categoria": "Bebidas"
-  },
-  {
-    "sku": "GOBE-4207",
-    "productId": "34464003",
-    "marca": "Salentein",
-    "nombre": "Vino Salentein Numina",
-    "titulo": "Salentein Vino Salentein Numina",
-    "puntos": 7100,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34464003&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Salentein/GOBE-4207/GOBE-4207",
-    "categoria": "Bebidas"
-  },
-  {
-    "sku": "GOBE-4210",
-    "productId": "34464771",
-    "marca": "Salentein",
-    "nombre": "Salentei Gran Corte",
-    "titulo": "Salentein Salentei Gran Corte",
-    "puntos": 8800,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34464771&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Salentein/GOBE-4210/GOBE-4210",
-    "categoria": "Bebidas"
-  },
-  {
-    "sku": "GOBE-4216",
-    "productId": "34466819",
-    "marca": "Baileys",
-    "nombre": "Baileys Salted Caramel 750ml",
-    "titulo": "Baileys Baileys Salted Caramel 750ml",
-    "puntos": 10500,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34466819&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Baileys/GOBE-4216/GOBE-4216",
-    "categoria": "Bebidas"
-  },
-  {
-    "sku": "GOBE-4218",
-    "productId": "34467331",
-    "marca": "Trapiche",
-    "nombre": "Gran Medalla Cabfran 750ml",
-    "titulo": "Trapiche Gran Medalla Cabfran 750ml",
-    "puntos": 11000,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34467331&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Trapiche/GOBE-4218/GOBE-4218",
-    "categoria": "Bebidas"
-  },
-  {
-    "sku": "GOBE-4220",
-    "productId": "34467843",
-    "marca": "Tanqueray",
-    "nombre": "Tanqueray London Dry Gin 700ml",
-    "titulo": "Tanqueray Tanqueray London Dry Gin 700ml",
-    "puntos": 11200,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34467843&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Tanqueray/GOBE-4220/GOBE-4220",
-    "categoria": "Bebidas"
-  },
-  {
     "sku": "DG99-3127",
     "productId": "34277379",
     "marca": "Hudson",
@@ -272,17 +107,6 @@
     "puntos": 14600,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34442499&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Johnnie-Walker/DG99-3215/DG99-3215",
-    "categoria": "Bebidas"
-  },
-  {
-    "sku": "GOBE-4225",
-    "productId": "34543107",
-    "marca": "Johnnie Walker",
-    "nombre": "Black Label 750ml",
-    "titulo": "Johnnie Walker Black Label 750ml",
-    "puntos": 14900,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34543107&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Johnnie-Walker/GOBE-4225/GOBE-4225",
     "categoria": "Bebidas"
   },
   {
@@ -316,17 +140,6 @@
     "puntos": 17700,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34605571&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Johnnie-Walker/DG99-3226/DG99-3226",
-    "categoria": "Bebidas"
-  },
-  {
-    "sku": "GOBE-4233",
-    "productId": "34545155",
-    "marca": "Singleton",
-    "nombre": "Singleton 12 Yo 750 Ml",
-    "titulo": "Singleton Singleton 12 Yo 750 Ml",
-    "puntos": 18200,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34545155&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Singleton/GOBE-4233/GOBE-4233",
     "categoria": "Bebidas"
   },
   {
@@ -473,39 +286,6 @@
     "categoria": "Bebidas"
   },
   {
-    "sku": "GOBE-4254",
-    "productId": "34585091",
-    "marca": "Talisker",
-    "nombre": "Malt Talisker 10Yo Uk 750Ml",
-    "titulo": "Talisker Malt Talisker 10Yo Uk 750Ml",
-    "puntos": 38800,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34585091&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Talisker/GOBE-4254/GOBE-4254",
-    "categoria": "Bebidas"
-  },
-  {
-    "sku": "GOBE-4255",
-    "productId": "34585347",
-    "marca": "Zacapa Centenario 23",
-    "nombre": "Zacapa Centenario 23 750 Ml",
-    "titulo": "Zacapa Centenario 23 Zacapa Centenario 23 750 Ml",
-    "puntos": 39400,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34585347&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Zacapa-Centenario-23/GOBE-4255/GOBE-4255",
-    "categoria": "Bebidas"
-  },
-  {
-    "sku": "GOBE-4260",
-    "productId": "34576131",
-    "marca": "Johnnie Walker",
-    "nombre": "Green Label 750ml",
-    "titulo": "Johnnie Walker Green Label 750ml",
-    "puntos": 54600,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34576131&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Johnnie-Walker/GOBE-4260/GOBE-4260",
-    "categoria": "Bebidas"
-  },
-  {
     "sku": "DG99-3265",
     "productId": "34671107",
     "marca": "Lagarde",
@@ -605,61 +385,6 @@
     "categoria": "Bebidas"
   },
   {
-    "sku": "GOBE-4239",
-    "productId": "34546691",
-    "marca": "Carol",
-    "nombre": "Cacerola 20cm + 2 Protectores",
-    "titulo": "Carol Cacerola 20cm + 2 Protectores",
-    "puntos": 20200,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34546691&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Carol/GOBE-4239/GOBE-4239",
-    "categoria": "Cocina"
-  },
-  {
-    "sku": "GOBE-4240",
-    "productId": "34546947",
-    "marca": "Sakura",
-    "nombre": "Cacerola Hierro C/Tapa 24Cm",
-    "titulo": "Sakura Cacerola Hierro C/Tapa 24Cm",
-    "puntos": 20300,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34546947&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Sakura/GOBE-4240/GOBE-4240",
-    "categoria": "Cocina"
-  },
-  {
-    "sku": "GOBE-4244",
-    "productId": "34547971",
-    "marca": "Sakura",
-    "nombre": "Fondue Hierro Fundido Negro",
-    "titulo": "Sakura Fondue Hierro Fundido Negro",
-    "puntos": 21800,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34547971&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Sakura/GOBE-4244/GOBE-4244",
-    "categoria": "Cocina"
-  },
-  {
-    "sku": "GOBE-4245",
-    "productId": "34548227",
-    "marca": "Sakura",
-    "nombre": "Fondue Hierro Fundido Roja",
-    "titulo": "Sakura Fondue Hierro Fundido Roja",
-    "puntos": 21900,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34548227&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Sakura/GOBE-4245/GOBE-4245",
-    "categoria": "Cocina"
-  },
-  {
-    "sku": "GOBE-4248",
-    "productId": "34548995",
-    "marca": "Carol",
-    "nombre": "Cacerola 24cm + 2 Protectores",
-    "titulo": "Carol Cacerola 24cm + 2 Protectores",
-    "puntos": 23400,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34548995&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Carol/GOBE-4248/GOBE-4248",
-    "categoria": "Cocina"
-  },
-  {
     "sku": "DG99-3201",
     "productId": "34425091",
     "marca": "Hudson",
@@ -690,39 +415,6 @@
     "puntos": 26300,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34281731&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Peabody/DG99-3144/DG99-3144",
-    "categoria": "Cocina"
-  },
-  {
-    "sku": "GOBE-4251",
-    "productId": "34584323",
-    "marca": "Sakura",
-    "nombre": "Cacerola Hierro C/Tapa 28Cm",
-    "titulo": "Sakura Cacerola Hierro C/Tapa 28Cm",
-    "puntos": 26600,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34584323&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Sakura/GOBE-4251/GOBE-4251",
-    "categoria": "Cocina"
-  },
-  {
-    "sku": "GOBE-4252",
-    "productId": "34584579",
-    "marca": "Carol",
-    "nombre": "Batería de cocina c/espátula",
-    "titulo": "Carol Batería de cocina c/espátula",
-    "puntos": 29300,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34584579&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Carol/GOBE-4252/GOBE-4252",
-    "categoria": "Cocina"
-  },
-  {
-    "sku": "GOBE-4253",
-    "productId": "34584835",
-    "marca": "Carol",
-    "nombre": "Batería de cocina c/espátula",
-    "titulo": "Carol Batería de cocina c/espátula",
-    "puntos": 29300,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34584835&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Carol/GOBE-4253/GOBE-4253",
     "categoria": "Cocina"
   },
   {
@@ -836,28 +528,6 @@
     "categoria": "Coffee Break"
   },
   {
-    "sku": "GOBE-4231",
-    "productId": "34544643",
-    "marca": "Sakura",
-    "nombre": "Jarra Térmica Beige 1.2 Lt",
-    "titulo": "Sakura Jarra Térmica Beige 1.2 Lt",
-    "puntos": 17900,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34544643&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Sakura/GOBE-4231/GOBE-4231",
-    "categoria": "Coffee Break"
-  },
-  {
-    "sku": "GOBE-4230",
-    "productId": "34544387",
-    "marca": "Sakura",
-    "nombre": "Jarra Térmica Marron 1.2 Lt",
-    "titulo": "Sakura Jarra Térmica Marron 1.2 Lt",
-    "puntos": 17900,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34544387&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Sakura/GOBE-4230/GOBE-4230",
-    "categoria": "Coffee Break"
-  },
-  {
     "sku": "DG99-3211",
     "productId": "34441475",
     "marca": "Oster",
@@ -877,39 +547,6 @@
     "puntos": 18600,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34441219&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Stanley/DG99-3210/DG99-3210",
-    "categoria": "Coffee Break"
-  },
-  {
-    "sku": "GOBE-4236",
-    "productId": "34545923",
-    "marca": "Bodum",
-    "nombre": "Jarro Hermético Acero 0,35L",
-    "titulo": "Bodum Jarro Hermético Acero 0,35L",
-    "puntos": 20000,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34545923&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Bodum/GOBE-4236/GOBE-4236",
-    "categoria": "Coffee Break"
-  },
-  {
-    "sku": "GOBE-4237",
-    "productId": "34546179",
-    "marca": "Bodum",
-    "nombre": "Jarro Hermético Acero 0,35L",
-    "titulo": "Bodum Jarro Hermético Acero 0,35L",
-    "puntos": 20000,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34546179&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Bodum/GOBE-4237/GOBE-4237",
-    "categoria": "Coffee Break"
-  },
-  {
-    "sku": "GOBE-4242",
-    "productId": "34547459",
-    "marca": "Sakura",
-    "nombre": "Set Tetera + Base + 2 Cuencos",
-    "titulo": "Sakura Set Tetera + Base + 2 Cuencos",
-    "puntos": 21000,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34547459&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Sakura/GOBE-4242/GOBE-4242",
     "categoria": "Coffee Break"
   },
   {
@@ -1100,28 +737,6 @@
     "categoria": "Coffee Break"
   },
   {
-    "sku": "GOBE-4289",
-    "productId": "34552835",
-    "marca": "Nespresso",
-    "nombre": "CITIZ Black D113",
-    "titulo": "Nespresso CITIZ Black D113",
-    "puntos": 92900,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34552835&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Nespresso/GOBE-4289/GOBE-4289",
-    "categoria": "Coffee Break"
-  },
-  {
-    "sku": "GOBE-4290",
-    "productId": "34553091",
-    "marca": "Nespresso",
-    "nombre": "CITIZ Silver C113",
-    "titulo": "Nespresso CITIZ Silver C113",
-    "puntos": 92900,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34553091&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Nespresso/GOBE-4290/GOBE-4290",
-    "categoria": "Coffee Break"
-  },
-  {
     "sku": "DG99-3277",
     "productId": "34646275",
     "marca": "Nespresso",
@@ -1166,17 +781,6 @@
     "categoria": "Coffee Break"
   },
   {
-    "sku": "GOBE-4267",
-    "productId": "34577923",
-    "marca": "Nespresso",
-    "nombre": "Inissia Red + Aeroccino",
-    "titulo": "Nespresso Inissia Red + Aeroccino",
-    "puntos": 125600,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34577923&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Nespresso/GOBE-4267/GOBE-4267",
-    "categoria": "Coffee Break"
-  },
-  {
     "sku": "DG99-3286",
     "productId": "34648579",
     "marca": "Nespresso",
@@ -1210,50 +814,6 @@
     "categoria": "Coffee Break"
   },
   {
-    "sku": "GOBE-4268",
-    "productId": "34578179",
-    "marca": "Nespresso",
-    "nombre": "Citiz Platinum Tit",
-    "titulo": "Nespresso Citiz Platinum Tit",
-    "puntos": 151400,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34578179&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Nespresso/GOBE-4268/GOBE-4268",
-    "categoria": "Coffee Break"
-  },
-  {
-    "sku": "GOBE-4270",
-    "productId": "34578691",
-    "marca": "Nespresso",
-    "nombre": "Cafetera Nespresso",
-    "titulo": "Nespresso Cafetera Nespresso",
-    "puntos": 179900,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34578691&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Nespresso/GOBE-4270/GOBE-4270",
-    "categoria": "Coffee Break"
-  },
-  {
-    "sku": "GOBE-4271",
-    "productId": "34594307",
-    "marca": "Nespresso",
-    "nombre": "Citiz Black D113",
-    "titulo": "Nespresso Citiz Black D113",
-    "puntos": 188100,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34594307&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Nespresso/GOBE-4271/GOBE-4271",
-    "categoria": "Coffee Break"
-  },
-  {
-    "sku": "GOBE-4272",
-    "productId": "34571523",
-    "marca": "Nespresso",
-    "nombre": "Citiz & Milk Black D123",
-    "titulo": "Nespresso Citiz & Milk Black D123",
-    "puntos": 193100,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34571523&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Nespresso/GOBE-4272/GOBE-4272",
-    "categoria": "Coffee Break"
-  },
-  {
     "sku": "DG99-3293",
     "productId": "34650371",
     "marca": "Nespresso",
@@ -1262,17 +822,6 @@
     "puntos": 197400,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34650371&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Nespresso/DG99-3293/DG99-3293",
-    "categoria": "Coffee Break"
-  },
-  {
-    "sku": "GOBE-4274",
-    "productId": "34572035",
-    "marca": "Nespresso",
-    "nombre": "Cafetera Nespresso Metallic",
-    "titulo": "Nespresso Cafetera Nespresso Metallic",
-    "puntos": 357200,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34572035&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Nespresso/GOBE-4274/GOBE-4274",
     "categoria": "Coffee Break"
   },
   {
@@ -1507,17 +1056,6 @@
     "categoria": "Pequeños Electro"
   },
   {
-    "sku": "GOBE-4227",
-    "productId": "34543619",
-    "marca": "Moulinex",
-    "nombre": "Picadora 123 - Negra",
-    "titulo": "Moulinex Picadora 123 - Negra",
-    "puntos": 16300,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34543619&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Moulinex/GOBE-4227/GOBE-4227",
-    "categoria": "Pequeños Electro"
-  },
-  {
     "sku": "DG99-3224",
     "productId": "34605059",
     "marca": "Smart Life",
@@ -1562,17 +1100,6 @@
     "categoria": "Pequeños Electro"
   },
   {
-    "sku": "GOBE-4238",
-    "productId": "34546435",
-    "marca": "Bodum",
-    "nombre": "Espumador De Leche Latteo",
-    "titulo": "Bodum Espumador De Leche Latteo",
-    "puntos": 20200,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34546435&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Bodum/GOBE-4238/GOBE-4238",
-    "categoria": "Pequeños Electro"
-  },
-  {
     "sku": "DG99-3231",
     "productId": "34606851",
     "marca": "Oster",
@@ -1592,28 +1119,6 @@
     "puntos": 21800,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34607363&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Oster/DG99-3233/DG99-3233",
-    "categoria": "Pequeños Electro"
-  },
-  {
-    "sku": "GOBE-4247",
-    "productId": "34548739",
-    "marca": "Sakura",
-    "nombre": "Molinillo De Café Carbon Black",
-    "titulo": "Sakura Molinillo De Café Carbon Black",
-    "puntos": 22600,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34548739&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Sakura/GOBE-4247/GOBE-4247",
-    "categoria": "Pequeños Electro"
-  },
-  {
-    "sku": "GOBE-4246",
-    "productId": "34548483",
-    "marca": "Sakura",
-    "nombre": "Molinillo De Café Titan Silver",
-    "titulo": "Sakura Molinillo De Café Titan Silver",
-    "puntos": 22600,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34548483&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Sakura/GOBE-4246/GOBE-4246",
     "categoria": "Pequeños Electro"
   },
   {
@@ -1782,17 +1287,6 @@
     "categoria": "Pequeños Electro"
   },
   {
-    "sku": "GOBE-4257",
-    "productId": "34585859",
-    "marca": "Peugeot",
-    "nombre": "Molinillo Café 19Cm-43 Grinds",
-    "titulo": "Peugeot Molinillo Café 19Cm-43 Grinds",
-    "puntos": 48100,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34585859&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Peugeot/GOBE-4257/GOBE-4257",
-    "categoria": "Pequeños Electro"
-  },
-  {
     "sku": "DG99-3187",
     "productId": "34427651",
     "marca": "Black & Decker",
@@ -1801,17 +1295,6 @@
     "puntos": 56300,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34427651&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Black-Decker/DG99-3187/DG99-3187",
-    "categoria": "Pequeños Electro"
-  },
-  {
-    "sku": "GOBE-4265",
-    "productId": "34577411",
-    "marca": "Kitchenaid",
-    "nombre": "Pava Red",
-    "titulo": "Kitchenaid Pava Red",
-    "puntos": 67100,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34577411&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Kitchenaid/GOBE-4265/GOBE-4265",
     "categoria": "Pequeños Electro"
   },
   {
@@ -1824,28 +1307,6 @@
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34649603&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Kitchenaid/DG99-3290/DG99-3290",
     "categoria": "Pequeños Electro"
-  },
-  {
-    "sku": "GOBE-4273",
-    "productId": "34571779",
-    "marca": "Kitchenaid",
-    "nombre": "Batidora Heavy Duty 7QT GRIS",
-    "titulo": "Kitchenaid Batidora Heavy Duty 7QT GRIS",
-    "puntos": 266700,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34571779&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Kitchenaid/GOBE-4273/GOBE-4273",
-    "categoria": "Pequeños Electro"
-  },
-  {
-    "sku": "GOBE-4286",
-    "productId": "34552067",
-    "marca": "House Of Marley",
-    "nombre": "Parlante Bluetooth Mini Black",
-    "titulo": "House Of Marley Parlante Bluetooth Mini Black",
-    "puntos": 15400,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34552067&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/House-Of-Marley/GOBE-4286/GOBE-4286",
-    "categoria": "TV y Audio"
   },
   {
     "sku": "DG99-3194",
@@ -1867,17 +1328,6 @@
     "puntos": 34500,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34667779&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/JBL/DG99-3252/DG99-3252",
-    "categoria": "TV y Audio"
-  },
-  {
-    "sku": "GOBE-4287",
-    "productId": "34552323",
-    "marca": "House Of Marley",
-    "nombre": "Parlante Bluetooth Black",
-    "titulo": "House Of Marley Parlante Bluetooth Black",
-    "puntos": 49000,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34552323&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/House-Of-Marley/GOBE-4287/GOBE-4287",
     "categoria": "TV y Audio"
   },
   {
@@ -1914,28 +1364,6 @@
     "categoria": "TV y Audio"
   },
   {
-    "sku": "GOBE-4276",
-    "productId": "34549507",
-    "marca": "Samsung",
-    "nombre": "Galaxy Buds3 - Silver",
-    "titulo": "Samsung Galaxy Buds3 - Silver",
-    "puntos": 66600,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34549507&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Samsung/GOBE-4276/GOBE-4276",
-    "categoria": "TV y Audio"
-  },
-  {
-    "sku": "GOBE-4277",
-    "productId": "34549763",
-    "marca": "Samsung",
-    "nombre": "Galaxy Buds3 - White",
-    "titulo": "Samsung Galaxy Buds3 - White",
-    "puntos": 66600,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34549763&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Samsung/GOBE-4277/GOBE-4277",
-    "categoria": "TV y Audio"
-  },
-  {
     "sku": "DG99-3271",
     "productId": "34588419",
     "marca": "Samsung",
@@ -1966,17 +1394,6 @@
     "puntos": 90500,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34423555&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Sony/DG99-3181/DG99-3181",
-    "categoria": "TV y Audio"
-  },
-  {
-    "sku": "GOBE-4278",
-    "productId": "34550019",
-    "marca": "Samsung",
-    "nombre": "Galaxy Buds3 Pro - Silver",
-    "titulo": "Samsung Galaxy Buds3 Pro - Silver",
-    "puntos": 91400,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34550019&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Samsung/GOBE-4278/GOBE-4278",
     "categoria": "TV y Audio"
   },
   {
@@ -2156,17 +1573,6 @@
     "categoria": "TV y Audio"
   },
   {
-    "sku": "GOBE-4275",
-    "productId": "34558467",
-    "marca": "Samsung",
-    "nombre": "Galaxy Fit3 - Dark Gray",
-    "titulo": "Samsung Galaxy Fit3 - Dark Gray",
-    "puntos": 19100,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34558467&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Samsung/GOBE-4275/GOBE-4275",
-    "categoria": "Tecno"
-  },
-  {
     "sku": "DG99-3160",
     "productId": "34297347",
     "marca": "Philips",
@@ -2208,17 +1614,6 @@
     "puntos": 40100,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34279939&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Samsung/DG99-3137/DG99-3137",
-    "categoria": "Tecno"
-  },
-  {
-    "sku": "GOBE-4261",
-    "productId": "34576387",
-    "marca": "Samsung",
-    "nombre": "Galaxy Watch5 Pro 45Mm - Black",
-    "titulo": "Samsung Galaxy Watch5 Pro 45Mm - Black",
-    "puntos": 57200,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34576387&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Samsung/GOBE-4261/GOBE-4261",
     "categoria": "Tecno"
   },
   {
@@ -2387,94 +1782,6 @@
     "categoria": "Tecno"
   },
   {
-    "sku": "GOBE-4201",
-    "productId": "34462467",
-    "marca": "Double Wall",
-    "nombre": "Vaso Doble Vidrio 250 Ml",
-    "titulo": "Double Wall Vaso Doble Vidrio 250 Ml",
-    "puntos": 6100,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34462467&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Double-Wall/GOBE-4201/GOBE-4201",
-    "categoria": "Vajilla"
-  },
-  {
-    "sku": "GOBE-4200",
-    "productId": "34466307",
-    "marca": "Sakura",
-    "nombre": "Vaso Doble Vidrio 250 Ml",
-    "titulo": "Sakura Vaso Doble Vidrio 250 Ml",
-    "puntos": 6100,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34466307&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Sakura/GOBE-4200/GOBE-4200",
-    "categoria": "Vajilla"
-  },
-  {
-    "sku": "GOBE-4203",
-    "productId": "34462979",
-    "marca": "Sakura",
-    "nombre": "Vaso Doble Vidrio 350 Ml",
-    "titulo": "Sakura Vaso Doble Vidrio 350 Ml",
-    "puntos": 6500,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34462979&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Sakura/GOBE-4203/GOBE-4203",
-    "categoria": "Vajilla"
-  },
-  {
-    "sku": "GOBE-4205",
-    "productId": "34463491",
-    "marca": "Sakura",
-    "nombre": "2 Vasos Doble Vidrio 80 Ml",
-    "titulo": "Sakura 2 Vasos Doble Vidrio 80 Ml",
-    "puntos": 6900,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34463491&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Sakura/GOBE-4205/GOBE-4205",
-    "categoria": "Vajilla"
-  },
-  {
-    "sku": "GOBE-4208",
-    "productId": "34464259",
-    "marca": "Double Wall",
-    "nombre": "2 Vasos Doble Vidrio 75 Ml",
-    "titulo": "Double Wall 2 Vasos Doble Vidrio 75 Ml",
-    "puntos": 7200,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34464259&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Double-Wall/GOBE-4208/GOBE-4208",
-    "categoria": "Vajilla"
-  },
-  {
-    "sku": "GOBE-4209",
-    "productId": "34464515",
-    "marca": "Le Toton",
-    "nombre": "Pocillo Y Plato Burlington",
-    "titulo": "Le Toton Pocillo Y Plato Burlington",
-    "puntos": 7900,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34464515&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Le-Toton/GOBE-4209/GOBE-4209",
-    "categoria": "Vajilla"
-  },
-  {
-    "sku": "GOBE-4211",
-    "productId": "34465027",
-    "marca": "Bodum",
-    "nombre": "Vaso Doble Vidrio 350 Ml Bodum",
-    "titulo": "Bodum Vaso Doble Vidrio 350 Ml Bodum",
-    "puntos": 8900,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34465027&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Bodum/GOBE-4211/GOBE-4211",
-    "categoria": "Vajilla"
-  },
-  {
-    "sku": "GOBE-4217",
-    "productId": "34467075",
-    "marca": "Sakura",
-    "nombre": "6 Vasos De Vidrio 380 Ml",
-    "titulo": "Sakura 6 Vasos De Vidrio 380 Ml",
-    "puntos": 10800,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34467075&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Sakura/GOBE-4217/GOBE-4217",
-    "categoria": "Vajilla"
-  },
-  {
     "sku": "DG99-3217",
     "productId": "34443011",
     "marca": "Volf",
@@ -2483,17 +1790,6 @@
     "puntos": 11700,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34443011&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Volf/DG99-3217/DG99-3217",
-    "categoria": "Vajilla"
-  },
-  {
-    "sku": "GOBE-4226",
-    "productId": "34543363",
-    "marca": "Sakura",
-    "nombre": "6 Copas Vidrio Amsterdam 380ml",
-    "titulo": "Sakura 6 Copas Vidrio Amsterdam 380ml",
-    "puntos": 16100,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34543363&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Sakura/GOBE-4226/GOBE-4226",
     "categoria": "Vajilla"
   },
   {
