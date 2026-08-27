@@ -407,17 +407,6 @@
     "categoria": "Cocina"
   },
   {
-    "sku": "DG99-3144",
-    "productId": "34281731",
-    "marca": "Peabody",
-    "nombre": "Mixer",
-    "titulo": "Peabody Mixer",
-    "puntos": 26300,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34281731&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Peabody/DG99-3144/DG99-3144",
-    "categoria": "Cocina"
-  },
-  {
     "sku": "DG99-3109",
     "productId": "34272259",
     "marca": "Ariete",
@@ -1243,17 +1232,6 @@
     "categoria": "Pequeños Electro"
   },
   {
-    "sku": "DG99-3259",
-    "productId": "34669571",
-    "marca": "Black & Decker",
-    "nombre": "Freidora de aire 8L",
-    "titulo": "Black & Decker Freidora de aire 8L",
-    "puntos": 39300,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34669571&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Black-Decker/DG99-3259/DG99-3259",
-    "categoria": "Pequeños Electro"
-  },
-  {
     "sku": "DG99-3193",
     "productId": "34429187",
     "marca": "Black & Decker",
@@ -1823,17 +1801,6 @@
     "puntos": 31700,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34665987&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Volf/DG99-3245/DG99-3245",
-    "categoria": "Vajilla"
-  },
-  {
-    "sku": "DG99-3152",
-    "productId": "34294019",
-    "marca": "Volf",
-    "nombre": "Set x 6 platos playo 28cm",
-    "titulo": "Volf Set x 6 platos playo 28cm",
-    "puntos": 65400,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34294019&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Volf/DG99-3152/DG99-3152",
     "categoria": "Vajilla"
   }
 ]
