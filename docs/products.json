@@ -44,17 +44,6 @@
     "categoria": "Bebidas"
   },
   {
-    "sku": "DG99-3230",
-    "productId": "34606595",
-    "marca": "Johnnie Walker",
-    "nombre": "Whisky Blue Label 750ml",
-    "titulo": "Johnnie Walker Whisky Blue Label 750ml",
-    "puntos": 20100,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34606595&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Johnnie-Walker/DG99-3230/DG99-3230",
-    "categoria": "Bebidas"
-  },
-  {
     "sku": "DG99-3207",
     "productId": "34436867",
     "marca": "Stanley",
@@ -110,6 +99,17 @@
     "categoria": "Bebidas"
   },
   {
+    "sku": "DG99-3185",
+    "productId": "34424579",
+    "marca": "Vondom",
+    "nombre": "Cava para 12 botellas",
+    "titulo": "Vondom Cava para 12 botellas",
+    "puntos": 57400,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34424579&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Vondom/DG99-3185/DG99-3185",
+    "categoria": "Bebidas"
+  },
+  {
     "sku": "DG99-3212",
     "productId": "34441731",
     "marca": "",
@@ -151,17 +151,6 @@
     "puntos": 36800,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34668803&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Black-Decker/DG99-3256/DG99-3256",
-    "categoria": "Bebidas"
-  },
-  {
-    "sku": "DG99-3185",
-    "productId": "34424579",
-    "marca": "Vondom",
-    "nombre": "Cava para 12 botellas",
-    "titulo": "Vondom Cava para 12 botellas",
-    "puntos": 57400,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34424579&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Vondom/DG99-3185/DG99-3185",
     "categoria": "Bebidas"
   },
   {
@@ -305,17 +294,6 @@
     "puntos": 29900,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34592003&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Stanley/DG99-3241/DG99-3241",
-    "categoria": "Coffee Break"
-  },
-  {
-    "sku": "DG99-3243",
-    "productId": "34592515",
-    "marca": "Stanley",
-    "nombre": "Botella Térmica 710ml",
-    "titulo": "Stanley Botella Térmica 710ml",
-    "puntos": 31000,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34592515&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Stanley/DG99-3243/DG99-3243",
     "categoria": "Coffee Break"
   },
   {
@@ -935,17 +913,6 @@
     "categoria": "TV y Audio"
   },
   {
-    "sku": "DG99-3271",
-    "productId": "34588419",
-    "marca": "Samsung",
-    "nombre": "Smart TV 32\"",
-    "titulo": "Samsung Smart TV 32\"",
-    "puntos": 66800,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34588419&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Samsung/DG99-3271/DG99-3271",
-    "categoria": "TV y Audio"
-  },
-  {
     "sku": "DG99-3181",
     "productId": "34423555",
     "marca": "Sony",
@@ -965,17 +932,6 @@
     "puntos": 101500,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34647043&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/JBL/DG99-3280/DG99-3280",
-    "categoria": "TV y Audio"
-  },
-  {
-    "sku": "DG99-3283",
-    "productId": "34647811",
-    "marca": "Philips",
-    "nombre": "Smart TV 43\"",
-    "titulo": "Philips Smart TV 43\"",
-    "puntos": 106500,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34647811&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Philips/DG99-3283/DG99-3283",
     "categoria": "TV y Audio"
   },
   {
@@ -1020,17 +976,6 @@
     "puntos": 160200,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34427139&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Philips/DG99-3177/DG99-3177",
-    "categoria": "TV y Audio"
-  },
-  {
-    "sku": "DG99-3291",
-    "productId": "34649859",
-    "marca": "Samsung",
-    "nombre": "Smart TV 55\"",
-    "titulo": "Samsung Smart TV 55\"",
-    "puntos": 166800,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34649859&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Samsung/DG99-3291/DG99-3291",
     "categoria": "TV y Audio"
   },
   {
