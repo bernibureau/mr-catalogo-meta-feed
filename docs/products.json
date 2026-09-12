@@ -55,17 +55,6 @@
     "categoria": "Bazar"
   },
   {
-    "sku": "DG99-3130",
-    "productId": "34278147",
-    "marca": "",
-    "nombre": "",
-    "titulo": "",
-    "puntos": 216100,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34278147&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Samsung/DG99-3130/DG99-3130",
-    "categoria": "Bazar"
-  },
-  {
     "sku": "DG99-3105",
     "productId": "34282755",
     "marca": "",
@@ -74,6 +63,17 @@
     "puntos": 63300,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34282755&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Black-Decker/DG99-3105/DG99-3105",
+    "categoria": "Bazar"
+  },
+  {
+    "sku": "DG99-3150",
+    "productId": "34293507",
+    "marca": "",
+    "nombre": "",
+    "titulo": "",
+    "puntos": 14800,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34293507&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Oregon/DG99-3150/DG99-3150",
     "categoria": "Bazar"
   },
   {
@@ -154,17 +154,6 @@
     "categoria": "Bebidas"
   },
   {
-    "sku": "DG99-3207",
-    "productId": "34436867",
-    "marca": "Stanley",
-    "nombre": "Termo 473ml Adventure TO GO",
-    "titulo": "Stanley Termo 473ml Adventure TO GO",
-    "puntos": 21300,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34436867&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Stanley/DG99-3207/DG99-3207",
-    "categoria": "Bebidas"
-  },
-  {
     "sku": "DG99-3206",
     "productId": "34436611",
     "marca": "Lagarde",
@@ -173,17 +162,6 @@
     "puntos": 21400,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34436611&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Lagarde/DG99-3206/DG99-3206",
-    "categoria": "Bebidas"
-  },
-  {
-    "sku": "DG99-3205",
-    "productId": "34436355",
-    "marca": "Stanley",
-    "nombre": "Botella Flip Straw Tumbler 887ml",
-    "titulo": "Stanley Botella Flip Straw Tumbler 887ml",
-    "puntos": 21600,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34436355&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Stanley/DG99-3205/DG99-3205",
     "categoria": "Bebidas"
   },
   {
@@ -372,17 +350,6 @@
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34298371&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Samsung/DG99-3164/DG99-3164",
     "categoria": "Bebidas"
-  },
-  {
-    "sku": "DG99-3201",
-    "productId": "34425091",
-    "marca": "Hudson",
-    "nombre": "Set de 4 cuchillos",
-    "titulo": "Hudson Set de 4 cuchillos",
-    "puntos": 24100,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34425091&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Hudson/DG99-3201/DG99-3201",
-    "categoria": "Cocina"
   },
   {
     "sku": "DG99-3145",
@@ -580,17 +547,6 @@
     "puntos": 26400,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34608387&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Stanley/DG99-3237/DG99-3237",
-    "categoria": "Coffee Break"
-  },
-  {
-    "sku": "DG99-3238",
-    "productId": "34591235",
-    "marca": "Stanley",
-    "nombre": "Botella Go Flip 700ml",
-    "titulo": "Stanley Botella Go Flip 700ml",
-    "puntos": 26600,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34591235&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Stanley/DG99-3238/DG99-3238",
     "categoria": "Coffee Break"
   },
   {
@@ -900,17 +856,6 @@
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34282243&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/GA.MA/DG99-3103/DG99-3103",
     "categoria": "Cuidado Personal y Bienestar"
-  },
-  {
-    "sku": "DG99-3150",
-    "productId": "34293507",
-    "marca": "Oregon",
-    "nombre": "Toalla y toallón 570 grs.",
-    "titulo": "Oregon Toalla y toallón 570 grs.",
-    "puntos": 14800,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34293507&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Oregon/DG99-3150/DG99-3150",
-    "categoria": "Hogar"
   },
   {
     "sku": "DG99-3232",
@@ -1725,17 +1670,6 @@
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34298115&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Samsung/DG99-3163/DG99-3163",
     "categoria": "Tecno"
-  },
-  {
-    "sku": "DG99-3217",
-    "productId": "34443011",
-    "marca": "Volf",
-    "nombre": "Set x 6 Vaso 550ml",
-    "titulo": "Volf Set x 6 Vaso 550ml",
-    "puntos": 11700,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34443011&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Volf/DG99-3217/DG99-3217",
-    "categoria": "Vajilla"
   },
   {
     "sku": "DG99-3223",
