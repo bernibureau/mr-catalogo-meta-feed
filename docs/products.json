@@ -66,6 +66,17 @@
     "categoria": "Bebidas"
   },
   {
+    "sku": "DG99-3111",
+    "productId": "34272771",
+    "marca": "Nespresso",
+    "nombre": "Essenza Mini White C",
+    "titulo": "Nespresso Essenza Mini White C",
+    "puntos": 73000,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34272771&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Nespresso/DG99-3111/DG99-3111",
+    "categoria": "Bebidas"
+  },
+  {
     "sku": "DG99-3232",
     "productId": "34607107",
     "marca": "",
