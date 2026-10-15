@@ -891,6 +891,28 @@
     "categoria": "Pequeños Electro"
   },
   {
+    "sku": "DG99-3407",
+    "productId": "34789891",
+    "marca": "Black & Decker",
+    "nombre": "Sandwichera",
+    "titulo": "Black & Decker Sandwichera",
+    "puntos": 20000,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34789891&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Black-Decker/DG99-3407/DG99-3407",
+    "categoria": "Pequeños Electro"
+  },
+  {
+    "sku": "DG99-3406",
+    "productId": "34788867",
+    "marca": "Oster",
+    "nombre": "Pava Eléctrica",
+    "titulo": "Oster Pava Eléctrica",
+    "puntos": 20600,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34788867&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Oster/DG99-3406/DG99-3406",
+    "categoria": "Pequeños Electro"
+  },
+  {
     "sku": "DG99-3231",
     "productId": "34606851",
     "marca": "Oster",
@@ -899,17 +921,6 @@
     "puntos": 20800,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34606851&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Oster/DG99-3231/DG99-3231",
-    "categoria": "Pequeños Electro"
-  },
-  {
-    "sku": "DG99-3233",
-    "productId": "34607363",
-    "marca": "Oster",
-    "nombre": "Pava eléctrica",
-    "titulo": "Oster Pava eléctrica",
-    "puntos": 21800,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34607363&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Oster/DG99-3233/DG99-3233",
     "categoria": "Pequeños Electro"
   },
   {
@@ -1097,6 +1108,17 @@
     "puntos": 63200,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34672131&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/JBL/DG99-3269/DG99-3269",
+    "categoria": "TV y Audio"
+  },
+  {
+    "sku": "DG99-3271",
+    "productId": "34588419",
+    "marca": "Samsung",
+    "nombre": "Smart TV 32\"",
+    "titulo": "Samsung Smart TV 32\"",
+    "puntos": 66800,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34588419&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Samsung/DG99-3271/DG99-3271",
     "categoria": "TV y Audio"
   },
   {
@@ -1306,17 +1328,6 @@
     "puntos": 177900,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34650115&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Apple/DG99-3292/DG99-3292",
-    "categoria": "Tecno"
-  },
-  {
-    "sku": "DG99-3294",
-    "productId": "34650627",
-    "marca": "Sony",
-    "nombre": "Consola PlayStation 5",
-    "titulo": "Sony Consola PlayStation 5",
-    "puntos": 229000,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34650627&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Sony/DG99-3294/DG99-3294",
     "categoria": "Tecno"
   },
   {
