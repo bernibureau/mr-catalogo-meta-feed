@@ -55,6 +55,17 @@
     "categoria": "Bazar"
   },
   {
+    "sku": "DG99-3130",
+    "productId": "34278147",
+    "marca": "",
+    "nombre": "",
+    "titulo": "",
+    "puntos": 216100,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34278147&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Samsung/DG99-3130/DG99-3130",
+    "categoria": "Bazar"
+  },
+  {
     "sku": "DG99-3232",
     "productId": "34607107",
     "marca": "",
@@ -85,17 +96,6 @@
     "puntos": 53600,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34670595&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Black-Decker/DG99-3263/DG99-3263",
-    "categoria": "Bazar"
-  },
-  {
-    "sku": "DG99-3320",
-    "productId": "34732547",
-    "marca": "",
-    "nombre": "",
-    "titulo": "",
-    "puntos": 45200,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34732547&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Delsey/DG99-3320/DG99-3320",
     "categoria": "Bazar"
   },
   {
@@ -451,14 +451,14 @@
     "categoria": "Cocina"
   },
   {
-    "sku": "DG99-3318",
-    "productId": "34759939",
-    "marca": "Oster",
-    "nombre": "Horno eléctrico c/Airfryer 5-1",
-    "titulo": "Oster Horno eléctrico c/Airfryer 5-1",
-    "puntos": 46600,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34759939&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Oster/DG99-3318/DG99-3318",
+    "sku": "DG99-3113",
+    "productId": "34273283",
+    "marca": "Black & Decker",
+    "nombre": "Freidora de aire 5,5L",
+    "titulo": "Black & Decker Freidora de aire 5,5L",
+    "puntos": 44700,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34273283&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Black-Decker/DG99-3113/DG99-3113",
     "categoria": "Cocina"
   },
   {
@@ -924,6 +924,17 @@
     "categoria": "Hogar"
   },
   {
+    "sku": "DG99-3320",
+    "productId": "34732547",
+    "marca": "Delsey",
+    "nombre": "Valija de cabina",
+    "titulo": "Delsey Valija de cabina",
+    "puntos": 45200,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34732547&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Delsey/DG99-3320/DG99-3320",
+    "categoria": "Hogar"
+  },
+  {
     "sku": "DG99-3262",
     "productId": "34670339",
     "marca": "",
@@ -943,17 +954,6 @@
     "puntos": 16700,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34605059&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Smart-Life/DG99-3224/DG99-3224",
-    "categoria": "Pequeños Electro"
-  },
-  {
-    "sku": "DG99-3354",
-    "productId": "34746115",
-    "marca": "Smart Life",
-    "nombre": "Pava eléctrica 1,7L",
-    "titulo": "Smart Life Pava eléctrica 1,7L",
-    "puntos": 16700,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34746115&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Smart-Life/DG99-3354/DG99-3354",
     "categoria": "Pequeños Electro"
   },
   {
@@ -1188,17 +1188,6 @@
     "categoria": "Pequeños Electro"
   },
   {
-    "sku": "DG99-3290",
-    "productId": "34649603",
-    "marca": "Kitchenaid",
-    "nombre": "Batidora",
-    "titulo": "Kitchenaid Batidora",
-    "puntos": 152200,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34649603&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Kitchenaid/DG99-3290/DG99-3290",
-    "categoria": "Pequeños Electro"
-  },
-  {
     "sku": "DG99-3342",
     "productId": "34738179",
     "marca": "Philips",
@@ -1339,17 +1328,6 @@
     "puntos": 166800,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34649859&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Samsung/DG99-3291/DG99-3291",
-    "categoria": "TV y Audio"
-  },
-  {
-    "sku": "DG99-3299",
-    "productId": "34754051",
-    "marca": "JBL",
-    "nombre": "Soundbar",
-    "titulo": "JBL Soundbar",
-    "puntos": 217200,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34754051&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/JBL/DG99-3299/DG99-3299",
     "categoria": "TV y Audio"
   },
   {
