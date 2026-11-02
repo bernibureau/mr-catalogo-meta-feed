@@ -11,6 +11,17 @@
     "categoria": "Bazar"
   },
   {
+    "sku": "DG99-3449",
+    "productId": "34812675",
+    "marca": "Joseph Joseph",
+    "nombre": "Set x 5 contenedores",
+    "titulo": "Joseph Joseph Set x 5 contenedores",
+    "puntos": 15900,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34812675&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Joseph-Joseph/DG99-3449/DG99-3449",
+    "categoria": "Bazar"
+  },
+  {
     "sku": "DG99-3350",
     "productId": "34745091",
     "marca": "Contigo",
@@ -52,6 +63,28 @@
     "puntos": 22800,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34737923&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Stanley/DG99-3341/DG99-3341",
+    "categoria": "Bazar"
+  },
+  {
+    "sku": "DG99-3430",
+    "productId": "34856707",
+    "marca": "Black & Decker",
+    "nombre": "Horno eléctrico 30L",
+    "titulo": "Black & Decker Horno eléctrico 30L",
+    "puntos": 42800,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34856707&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Black-Decker/DG99-3430/DG99-3430",
+    "categoria": "Bazar"
+  },
+  {
+    "sku": "DG99-3428",
+    "productId": "34836995",
+    "marca": "Joseph Joseph",
+    "nombre": "Set x 2 sartenes asa plegable",
+    "titulo": "Joseph Joseph Set x 2 sartenes asa plegable",
+    "puntos": 55400,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34836995&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Joseph-Joseph/DG99-3428/DG99-3428",
     "categoria": "Bazar"
   },
   {
@@ -97,6 +130,17 @@
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34670595&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Black-Decker/DG99-3263/DG99-3263",
     "categoria": "Bazar"
+  },
+  {
+    "sku": "DG99-3453",
+    "productId": "34813955",
+    "marca": "Rutini",
+    "nombre": "Setx6 botellas Brut Nature",
+    "titulo": "Rutini Setx6 botellas Brut Nature",
+    "puntos": 13500,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34813955&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Rutini/DG99-3453/DG99-3453",
+    "categoria": "Bebidas"
   },
   {
     "sku": "DG99-3358",
@@ -162,6 +206,17 @@
     "puntos": 19400,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34606083&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Johnnie-Walker/DG99-3228/DG99-3228",
+    "categoria": "Bebidas"
+  },
+  {
+    "sku": "DG99-3445",
+    "productId": "34811651",
+    "marca": "Lagarde",
+    "nombre": "setx6 botellas Malbec orgánico",
+    "titulo": "Lagarde setx6 botellas Malbec orgánico",
+    "puntos": 19900,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34811651&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Lagarde/DG99-3445/DG99-3445",
     "categoria": "Bebidas"
   },
   {
@@ -374,6 +429,17 @@
     "categoria": "Bebidas"
   },
   {
+    "sku": "DG99-3448",
+    "productId": "34812419",
+    "marca": "Hudson",
+    "nombre": "Set de 4 cuchillos",
+    "titulo": "Hudson Set de 4 cuchillos",
+    "puntos": 19000,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34812419&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Hudson/DG99-3448/DG99-3448",
+    "categoria": "Cocina"
+  },
+  {
     "sku": "DG99-3345",
     "productId": "34743811",
     "marca": "Hudson",
@@ -404,6 +470,39 @@
     "puntos": 23300,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34736643&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Stanley/DG99-3336/DG99-3336",
+    "categoria": "Cocina"
+  },
+  {
+    "sku": "DG99-3437",
+    "productId": "34809603",
+    "marca": "Joseph Joseph",
+    "nombre": "Set x 5 cuchillos con bandeja",
+    "titulo": "Joseph Joseph Set x 5 cuchillos con bandeja",
+    "puntos": 24900,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34809603&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Joseph-Joseph/DG99-3437/DG99-3437",
+    "categoria": "Cocina"
+  },
+  {
+    "sku": "DG99-3436",
+    "productId": "34809347",
+    "marca": "KitchenAid",
+    "nombre": "Sartén 24cm",
+    "titulo": "KitchenAid Sartén 24cm",
+    "puntos": 26500,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34809347&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/KitchenAid/DG99-3436/DG99-3436",
+    "categoria": "Cocina"
+  },
+  {
+    "sku": "DG99-3435",
+    "productId": "34804227",
+    "marca": "KitchenAid",
+    "nombre": "Olla inducción c/tapa",
+    "titulo": "KitchenAid Olla inducción c/tapa",
+    "puntos": 27400,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34804227&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/KitchenAid/DG99-3435/DG99-3435",
     "categoria": "Cocina"
   },
   {
@@ -440,6 +539,17 @@
     "categoria": "Cocina"
   },
   {
+    "sku": "DG99-3427",
+    "productId": "34836739",
+    "marca": "Smart-tek",
+    "nombre": "Horno para pizza",
+    "titulo": "Smart-tek Horno para pizza",
+    "puntos": 64700,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34836739&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Smart-tek/DG99-3427/DG99-3427",
+    "categoria": "Cocina"
+  },
+  {
     "sku": "DG99-3365",
     "productId": "34748931",
     "marca": "Hudson",
@@ -448,6 +558,17 @@
     "puntos": 10400,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34748931&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Hudson/DG99-3365/DG99-3365",
+    "categoria": "Coffee Break"
+  },
+  {
+    "sku": "DG99-3456",
+    "productId": "34814723",
+    "marca": "Peabody",
+    "nombre": "Pava eléctrica Peabody",
+    "titulo": "Peabody Pava eléctrica Peabody",
+    "puntos": 11900,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34814723&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Peabody/DG99-3456/DG99-3456",
     "categoria": "Coffee Break"
   },
   {
@@ -462,6 +583,61 @@
     "categoria": "Coffee Break"
   },
   {
+    "sku": "DG99-3454",
+    "productId": "34814211",
+    "marca": "Black & Decker",
+    "nombre": "Tostadora",
+    "titulo": "Black & Decker Tostadora",
+    "puntos": 13400,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34814211&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Black-Decker/DG99-3454/DG99-3454",
+    "categoria": "Coffee Break"
+  },
+  {
+    "sku": "DG99-3416",
+    "productId": "34841603",
+    "marca": "SmartLife",
+    "nombre": "Pava eléctrica 1,7L",
+    "titulo": "SmartLife Pava eléctrica 1,7L",
+    "puntos": 15300,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34841603&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/SmartLife/DG99-3416/DG99-3416",
+    "categoria": "Coffee Break"
+  },
+  {
+    "sku": "DG99-3415",
+    "productId": "34841347",
+    "marca": "Oster",
+    "nombre": "Tostadora",
+    "titulo": "Oster Tostadora",
+    "puntos": 19000,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34841347&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Oster/DG99-3415/DG99-3415",
+    "categoria": "Coffee Break"
+  },
+  {
+    "sku": "DG99-3446",
+    "productId": "34811907",
+    "marca": "Stanley",
+    "nombre": "Mug Aerolight 473ml",
+    "titulo": "Stanley Mug Aerolight 473ml",
+    "puntos": 19800,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34811907&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Stanley/DG99-3446/DG99-3446",
+    "categoria": "Coffee Break"
+  },
+  {
+    "sku": "DG99-3443",
+    "productId": "34811139",
+    "marca": "Peabody",
+    "nombre": "Espumador de leche",
+    "titulo": "Peabody Espumador de leche",
+    "puntos": 20700,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34811139&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Peabody/DG99-3443/DG99-3443",
+    "categoria": "Coffee Break"
+  },
+  {
     "sku": "DG99-3343",
     "productId": "34738435",
     "marca": "Ariete",
@@ -470,6 +646,28 @@
     "puntos": 22000,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34738435&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Ariete/DG99-3343/DG99-3343",
+    "categoria": "Coffee Break"
+  },
+  {
+    "sku": "DG99-3442",
+    "productId": "34810883",
+    "marca": "Peabody",
+    "nombre": "E-termo para auto",
+    "titulo": "Peabody E-termo para auto",
+    "puntos": 22200,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34810883&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Peabody/DG99-3442/DG99-3442",
+    "categoria": "Coffee Break"
+  },
+  {
+    "sku": "DG99-3441",
+    "productId": "34810627",
+    "marca": "Stanley",
+    "nombre": "Botella Flip Straw 887ml",
+    "titulo": "Stanley Botella Flip Straw 887ml",
+    "puntos": 22700,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34810627&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Stanley/DG99-3441/DG99-3441",
     "categoria": "Coffee Break"
   },
   {
@@ -561,6 +759,17 @@
     "categoria": "Coffee Break"
   },
   {
+    "sku": "DG99-3432",
+    "productId": "34857219",
+    "marca": "Smart Tek",
+    "nombre": "Fábrica de Hielo",
+    "titulo": "Smart Tek Fábrica de Hielo",
+    "puntos": 33800,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34857219&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Smart-Tek/DG99-3432/DG99-3432",
+    "categoria": "Coffee Break"
+  },
+  {
     "sku": "DG99-3326",
     "productId": "34734083",
     "marca": "Ariete",
@@ -624,6 +833,17 @@
     "puntos": 38700,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34669315&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Stanley/DG99-3258/DG99-3258",
+    "categoria": "Coffee Break"
+  },
+  {
+    "sku": "DG99-3411",
+    "productId": "34824963",
+    "marca": "Oster",
+    "nombre": "Cafetera de filtro",
+    "titulo": "Oster Cafetera de filtro",
+    "puntos": 39000,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34824963&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Oster/DG99-3411/DG99-3411",
     "categoria": "Coffee Break"
   },
   {
@@ -759,6 +979,17 @@
     "categoria": "Coffee Break"
   },
   {
+    "sku": "DG99-3457",
+    "productId": "34814979",
+    "marca": "Gadnic",
+    "nombre": "Pistola Masajeadora",
+    "titulo": "Gadnic Pistola Masajeadora",
+    "puntos": 11100,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34814979&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Gadnic/DG99-3457/DG99-3457",
+    "categoria": "Cuidado Personal y Bienestar"
+  },
+  {
     "sku": "DG99-3220",
     "productId": "34573315",
     "marca": "Remington",
@@ -770,6 +1001,28 @@
     "categoria": "Cuidado Personal y Bienestar"
   },
   {
+    "sku": "DG99-3451",
+    "productId": "34813187",
+    "marca": "Black & Decker",
+    "nombre": "Plancha a vapor",
+    "titulo": "Black & Decker Plancha a vapor",
+    "puntos": 15600,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34813187&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Black-Decker/DG99-3451/DG99-3451",
+    "categoria": "Cuidado Personal y Bienestar"
+  },
+  {
+    "sku": "DG99-3447",
+    "productId": "34812163",
+    "marca": "Remington",
+    "nombre": "Secador de pelo",
+    "titulo": "Remington Secador de pelo",
+    "puntos": 19100,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34812163&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Remington/DG99-3447/DG99-3447",
+    "categoria": "Cuidado Personal y Bienestar"
+  },
+  {
     "sku": "DG99-3346",
     "productId": "34744067",
     "marca": "Philips",
@@ -778,6 +1031,28 @@
     "puntos": 20800,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34744067&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Philips/DG99-3346/DG99-3346",
+    "categoria": "Cuidado Personal y Bienestar"
+  },
+  {
+    "sku": "DG99-3440",
+    "productId": "34810371",
+    "marca": "Remington",
+    "nombre": "Planchita de pelo",
+    "titulo": "Remington Planchita de pelo",
+    "puntos": 23600,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34810371&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Remington/DG99-3440/DG99-3440",
+    "categoria": "Cuidado Personal y Bienestar"
+  },
+  {
+    "sku": "DG99-3413",
+    "productId": "34840835",
+    "marca": "Oster",
+    "nombre": "Plancha a vapor",
+    "titulo": "Oster Plancha a vapor",
+    "puntos": 35400,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34840835&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Oster/DG99-3413/DG99-3413",
     "categoria": "Cuidado Personal y Bienestar"
   },
   {
@@ -814,6 +1089,17 @@
     "categoria": "Hogar"
   },
   {
+    "sku": "DG99-3455",
+    "productId": "34814467",
+    "marca": "Joseph Joseph",
+    "nombre": "Organizador de Sartenes y moldes",
+    "titulo": "Joseph Joseph Organizador de Sartenes y moldes",
+    "puntos": 12700,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34814467&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Joseph-Joseph/DG99-3455/DG99-3455",
+    "categoria": "Hogar"
+  },
+  {
     "sku": "DG99-3360",
     "productId": "34747651",
     "marca": "Home Collection",
@@ -822,6 +1108,28 @@
     "puntos": 13100,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34747651&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Home-Collection/DG99-3360/DG99-3360",
+    "categoria": "Hogar"
+  },
+  {
+    "sku": "DG99-3452",
+    "productId": "34813699",
+    "marca": "Joseph Joseph",
+    "nombre": "Organizador de ducha 4 niveles",
+    "titulo": "Joseph Joseph Organizador de ducha 4 niveles",
+    "puntos": 14100,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34813699&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Joseph-Joseph/DG99-3452/DG99-3452",
+    "categoria": "Hogar"
+  },
+  {
+    "sku": "DG99-3450",
+    "productId": "34812931",
+    "marca": "Joseph Joseph",
+    "nombre": "Organizador de calzados x 2",
+    "titulo": "Joseph Joseph Organizador de calzados x 2",
+    "puntos": 15700,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34812931&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Joseph-Joseph/DG99-3450/DG99-3450",
     "categoria": "Hogar"
   },
   {
@@ -858,6 +1166,39 @@
     "categoria": "Hogar"
   },
   {
+    "sku": "DG99-3262",
+    "productId": "34670339",
+    "marca": "",
+    "nombre": "",
+    "titulo": "",
+    "puntos": 49500,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34670339&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Delsey/DG99-3262/DG99-3262",
+    "categoria": "Hogar"
+  },
+  {
+    "sku": "DG99-3438",
+    "productId": "34809859",
+    "marca": "",
+    "nombre": "",
+    "titulo": "",
+    "puntos": 24500,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34809859&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Polarbox/DG99-3438/DG99-3438",
+    "categoria": "Hogar"
+  },
+  {
+    "sku": "DG99-3439",
+    "productId": "34810115",
+    "marca": "",
+    "nombre": "",
+    "titulo": "",
+    "puntos": 24000,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34810115&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Polarbox/DG99-3439/DG99-3439",
+    "categoria": "Hogar"
+  },
+  {
     "sku": "DG99-3327",
     "productId": "34734339",
     "marca": "Home Collection",
@@ -891,15 +1232,15 @@
     "categoria": "Hogar"
   },
   {
-    "sku": "DG99-3262",
-    "productId": "34670339",
-    "marca": "",
-    "nombre": "",
-    "titulo": "",
-    "puntos": 49500,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34670339&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Delsey/DG99-3262/DG99-3262",
-    "categoria": "Hogar"
+    "sku": "DG99-3418",
+    "productId": "34842115",
+    "marca": "Smart Life",
+    "nombre": "Exprimidor de cítricos",
+    "titulo": "Smart Life Exprimidor de cítricos",
+    "puntos": 15000,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34842115&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Smart-Life/DG99-3418/DG99-3418",
+    "categoria": "Pequeños Electro"
   },
   {
     "sku": "DG99-3224",
@@ -910,6 +1251,17 @@
     "puntos": 16700,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34605059&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Smart-Life/DG99-3224/DG99-3224",
+    "categoria": "Pequeños Electro"
+  },
+  {
+    "sku": "DG99-3417",
+    "productId": "34841859",
+    "marca": "Oster",
+    "nombre": "Sandwichera",
+    "titulo": "Oster Sandwichera",
+    "puntos": 16800,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34841859&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Oster/DG99-3417/DG99-3417",
     "categoria": "Pequeños Electro"
   },
   {
@@ -946,6 +1298,17 @@
     "categoria": "Pequeños Electro"
   },
   {
+    "sku": "DG99-3444",
+    "productId": "34811395",
+    "marca": "Black & Decker",
+    "nombre": "Sartén eléctrica",
+    "titulo": "Black & Decker Sartén eléctrica",
+    "puntos": 20000,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34811395&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Black-Decker/DG99-3444/DG99-3444",
+    "categoria": "Pequeños Electro"
+  },
+  {
     "sku": "DG99-3406",
     "productId": "34788867",
     "marca": "Oster",
@@ -965,6 +1328,17 @@
     "puntos": 20800,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34606851&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Oster/DG99-3231/DG99-3231",
+    "categoria": "Pequeños Electro"
+  },
+  {
+    "sku": "DG99-3414",
+    "productId": "34841091",
+    "marca": "Black & Decker",
+    "nombre": "Batidora de mano",
+    "titulo": "Black & Decker Batidora de mano",
+    "puntos": 23100,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34841091&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Black-Decker/DG99-3414/DG99-3414",
     "categoria": "Pequeños Electro"
   },
   {
@@ -1001,6 +1375,17 @@
     "categoria": "Pequeños Electro"
   },
   {
+    "sku": "DG99-3433",
+    "productId": "34821891",
+    "marca": "Peabody",
+    "nombre": "Batidora de mesa",
+    "titulo": "Peabody Batidora de mesa",
+    "puntos": 29500,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34821891&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Peabody/DG99-3433/DG99-3433",
+    "categoria": "Pequeños Electro"
+  },
+  {
     "sku": "DG99-3242",
     "productId": "34592259",
     "marca": "Black & Decker",
@@ -1034,6 +1419,28 @@
     "categoria": "Pequeños Electro"
   },
   {
+    "sku": "DG99-3431",
+    "productId": "34856963",
+    "marca": "Joseph Joseph",
+    "nombre": "Canasto de ropa doble 60 L",
+    "titulo": "Joseph Joseph Canasto de ropa doble 60 L",
+    "puntos": 35300,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34856963&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Joseph-Joseph/DG99-3431/DG99-3431",
+    "categoria": "Pequeños Electro"
+  },
+  {
+    "sku": "DG99-3412",
+    "productId": "34825219",
+    "marca": "Black & Decker",
+    "nombre": "Procesadora",
+    "titulo": "Black & Decker Procesadora",
+    "puntos": 37200,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34825219&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Black-Decker/DG99-3412/DG99-3412",
+    "categoria": "Pequeños Electro"
+  },
+  {
     "sku": "DG99-3398",
     "productId": "34774531",
     "marca": "Oster",
@@ -1064,6 +1471,28 @@
     "puntos": 41600,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34669827&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Black-Decker/DG99-3260/DG99-3260",
+    "categoria": "Pequeños Electro"
+  },
+  {
+    "sku": "DG99-3410",
+    "productId": "34824707",
+    "marca": "Oster",
+    "nombre": "Juguera Oster",
+    "titulo": "Oster Juguera Oster",
+    "puntos": 42100,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34824707&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Oster/DG99-3410/DG99-3410",
+    "categoria": "Pequeños Electro"
+  },
+  {
+    "sku": "DG99-3429",
+    "productId": "34856451",
+    "marca": "Joseph Joseph",
+    "nombre": "Canasto de ropa triple 90 L",
+    "titulo": "Joseph Joseph Canasto de ropa triple 90 L",
+    "puntos": 43300,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34856451&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Joseph-Joseph/DG99-3429/DG99-3429",
     "categoria": "Pequeños Electro"
   },
   {
@@ -1133,6 +1562,17 @@
     "categoria": "TV y Audio"
   },
   {
+    "sku": "DG99-3434",
+    "productId": "34822147",
+    "marca": "Philips",
+    "nombre": "Parlante",
+    "titulo": "Philips Parlante",
+    "puntos": 27400,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34822147&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Philips/DG99-3434/DG99-3434",
+    "categoria": "TV y Audio"
+  },
+  {
     "sku": "DG99-3252",
     "productId": "34667779",
     "marca": "JBL",
@@ -1199,6 +1639,28 @@
     "categoria": "TV y Audio"
   },
   {
+    "sku": "DG99-3426",
+    "productId": "34836483",
+    "marca": "Sony",
+    "nombre": "Parlante",
+    "titulo": "Sony Parlante",
+    "puntos": 77600,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34836483&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Sony/DG99-3426/DG99-3426",
+    "categoria": "TV y Audio"
+  },
+  {
+    "sku": "DG99-3425",
+    "productId": "34836227",
+    "marca": "Samsung",
+    "nombre": "Smart TV 43\" Crystal UHD 4K",
+    "titulo": "Samsung Smart TV 43\" Crystal UHD 4K",
+    "puntos": 88500,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34836227&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Samsung/DG99-3425/DG99-3425",
+    "categoria": "TV y Audio"
+  },
+  {
     "sku": "DG99-3305",
     "productId": "34740227",
     "marca": "Philips",
@@ -1221,6 +1683,17 @@
     "categoria": "TV y Audio"
   },
   {
+    "sku": "DG99-3424",
+    "productId": "34843651",
+    "marca": "Philips",
+    "nombre": "Smart TV 4K 50\"",
+    "titulo": "Philips Smart TV 4K 50\"",
+    "puntos": 129400,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34843651&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Philips/DG99-3424/DG99-3424",
+    "categoria": "TV y Audio"
+  },
+  {
     "sku": "DG99-3303",
     "productId": "34739715",
     "marca": "Jabra",
@@ -1229,6 +1702,17 @@
     "puntos": 129900,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34739715&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Jabra/DG99-3303/DG99-3303",
+    "categoria": "TV y Audio"
+  },
+  {
+    "sku": "DG99-3423",
+    "productId": "34843395",
+    "marca": "Samsung",
+    "nombre": "Tablet Galaxy Tab S6 Lite 10,4",
+    "titulo": "Samsung Tablet Galaxy Tab S6 Lite 10,4",
+    "puntos": 140500,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34843395&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Samsung/DG99-3423/DG99-3423",
     "categoria": "TV y Audio"
   },
   {
@@ -1243,6 +1727,28 @@
     "categoria": "TV y Audio"
   },
   {
+    "sku": "DG99-3421",
+    "productId": "34842883",
+    "marca": "Samsung",
+    "nombre": "Sound Tower",
+    "titulo": "Samsung Sound Tower",
+    "puntos": 152300,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34842883&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Samsung/DG99-3421/DG99-3421",
+    "categoria": "TV y Audio"
+  },
+  {
+    "sku": "DG99-3420",
+    "productId": "34842627",
+    "marca": "Philips",
+    "nombre": "Smart TV 4K 55\"",
+    "titulo": "Philips Smart TV 4K 55\"",
+    "puntos": 152600,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34842627&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Philips/DG99-3420/DG99-3420",
+    "categoria": "TV y Audio"
+  },
+  {
     "sku": "DG99-3291",
     "productId": "34649859",
     "marca": "Samsung",
@@ -1251,6 +1757,17 @@
     "puntos": 166800,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34649859&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Samsung/DG99-3291/DG99-3291",
+    "categoria": "TV y Audio"
+  },
+  {
+    "sku": "DG99-3419",
+    "productId": "34842371",
+    "marca": "JBL",
+    "nombre": "Parlante",
+    "titulo": "JBL Parlante",
+    "puntos": 181500,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34842371&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/JBL/DG99-3419/DG99-3419",
     "categoria": "TV y Audio"
   },
   {
@@ -1416,6 +1933,17 @@
     "puntos": 142800,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34762499&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Samsung/DG99-3392/DG99-3392",
+    "categoria": "Tecno"
+  },
+  {
+    "sku": "DG99-3422",
+    "productId": "34843139",
+    "marca": "Philips",
+    "nombre": "Barra de Sonido",
+    "titulo": "Philips Barra de Sonido",
+    "puntos": 146800,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34843139&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Philips/DG99-3422/DG99-3422",
     "categoria": "Tecno"
   },
   {
