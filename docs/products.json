@@ -440,17 +440,6 @@
     "categoria": "Bebidas"
   },
   {
-    "sku": "DG99-3111",
-    "productId": "34272771",
-    "marca": "Nespresso",
-    "nombre": "Essenza Mini White C",
-    "titulo": "Nespresso Essenza Mini White C",
-    "puntos": 73000,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34272771&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Nespresso/DG99-3111/DG99-3111",
-    "categoria": "Bebidas"
-  },
-  {
     "sku": "DG99-3395",
     "productId": "34762755",
     "marca": "Vondom",
@@ -712,17 +701,6 @@
     "puntos": 20700,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34811139&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Peabody/DG99-3443/DG99-3443",
-    "categoria": "Coffee Break"
-  },
-  {
-    "sku": "DG99-3343",
-    "productId": "34738435",
-    "marca": "Ariete",
-    "nombre": "Espumador de Leche",
-    "titulo": "Ariete Espumador de Leche",
-    "puntos": 22000,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34738435&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Ariete/DG99-3343/DG99-3343",
     "categoria": "Coffee Break"
   },
   {
@@ -1724,17 +1702,6 @@
     "puntos": 55000,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34774019&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Sony/DG99-3397/DG99-3397",
-    "categoria": "TV y Audio"
-  },
-  {
-    "sku": "DG99-3312",
-    "productId": "34758403",
-    "marca": "Philips",
-    "nombre": "Smart TV 32\"",
-    "titulo": "Philips Smart TV 32\"",
-    "puntos": 55200,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34758403&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Philips/DG99-3312/DG99-3312",
     "categoria": "TV y Audio"
   },
   {
