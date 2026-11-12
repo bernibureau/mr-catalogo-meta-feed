@@ -440,17 +440,6 @@
     "categoria": "Cocina"
   },
   {
-    "sku": "DG99-3340",
-    "productId": "34737667",
-    "marca": "Hudson",
-    "nombre": "Bateria de cocina 5 piezas",
-    "titulo": "Hudson Bateria de cocina 5 piezas",
-    "puntos": 23000,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34737667&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Hudson/DG99-3340/DG99-3340",
-    "categoria": "Cocina"
-  },
-  {
     "sku": "DG99-3336",
     "productId": "34736643",
     "marca": "Stanley",
@@ -1669,6 +1658,17 @@
     "puntos": 206700,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34825475&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Samsung/DG99-3459/DG99-3459",
+    "categoria": "TV y Audio"
+  },
+  {
+    "sku": "DG99-3299",
+    "productId": "34754051",
+    "marca": "JBL",
+    "nombre": "Soundbar",
+    "titulo": "JBL Soundbar",
+    "puntos": 217200,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34754051&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/JBL/DG99-3299/DG99-3299",
     "categoria": "TV y Audio"
   },
   {
