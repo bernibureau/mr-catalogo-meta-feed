@@ -88,17 +88,6 @@
     "categoria": "Bazar"
   },
   {
-    "sku": "DG99-3130",
-    "productId": "34278147",
-    "marca": "",
-    "nombre": "",
-    "titulo": "",
-    "puntos": 216100,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34278147&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Samsung/DG99-3130/DG99-3130",
-    "categoria": "Bazar"
-  },
-  {
     "sku": "DG99-3320",
     "productId": "34732547",
     "marca": "",
@@ -129,6 +118,17 @@
     "puntos": 38300,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34734339&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Home-Collection/DG99-3327/DG99-3327",
+    "categoria": "Bazar"
+  },
+  {
+    "sku": "DG99-3330",
+    "productId": "34735107",
+    "marca": "",
+    "nombre": "",
+    "titulo": "",
+    "puntos": 29000,
+    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34735107&catalogid=132097&languageid=es_ar&imagetype=master1",
+    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Home-Collection/DG99-3330/DG99-3330",
     "categoria": "Bazar"
   },
   {
@@ -459,17 +459,6 @@
     "puntos": 43600,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34732803&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Peabody/DG99-3321/DG99-3321",
-    "categoria": "Cocina"
-  },
-  {
-    "sku": "DG99-3113",
-    "productId": "34273283",
-    "marca": "Black & Decker",
-    "nombre": "Freidora de aire 5,5L",
-    "titulo": "Black & Decker Freidora de aire 5,5L",
-    "puntos": 44700,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34273283&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Black-Decker/DG99-3113/DG99-3113",
     "categoria": "Cocina"
   },
   {
@@ -855,17 +844,6 @@
     "puntos": 17400,
     "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34745603&catalogid=132097&languageid=es_ar&imagetype=master1",
     "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Oregon/DG99-3352/DG99-3352",
-    "categoria": "Hogar"
-  },
-  {
-    "sku": "DG99-3330",
-    "productId": "34735107",
-    "marca": "Home Collection",
-    "nombre": "Edredon Spring King",
-    "titulo": "Home Collection Edredon Spring King",
-    "puntos": 29000,
-    "imagen": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/getcatalogimage.mtw?productid=34735107&catalogid=132097&languageid=es_ar&imagetype=master1",
-    "link": "https://www.americanexpress.com/es-ar/rewards/membership-rewards/award/Home-Collection/DG99-3330/DG99-3330",
     "categoria": "Hogar"
   },
   {
